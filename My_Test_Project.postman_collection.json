@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "cedfd1d1-953d-403a-92bc-b29e61ff644d",
+		"name": "My_Test_Project",
+		"description": "为寻找测试实习工作而创建的API测试练习集合",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50428514",
+		"_collection_link": "https://zhouzijiing20-3903412.postman.co/workspace/fee63f1e-ddd8-4e1a-8aa4-56c0c84c628c/collection/50428514-cedfd1d1-953d-403a-92bc-b29e61ff644d?action=share&source=collection_link&creator=50428514"
+	},
+	"item": [
+		{
+			"name": "Create a Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
